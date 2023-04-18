@@ -19,3 +19,10 @@ The results of this code will be compared against the ones
 obtained with MATLAB.
 ----------------------------------------------------------------
 '''
+
+import pandas as pd
+import matplotlib.pyplot as plt
+
+excel_file_path = 'Test.xlsx'
+var = pd.read_excel(excel_file_path)
+print(var)
