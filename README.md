@@ -2,4 +2,6 @@
 
 My personal repository for the development of my undergraduate thesis.
 
-This project will use *EMD: Empirical Mode Decomposition*, available: https://pypi.org/project/emd/
+This project will use *EMD: Empirical Mode Decomposition*.
+* Available: https://pypi.org/project/emd/
+* Repository: https://gitlab.com/emd-dev/emd.git
