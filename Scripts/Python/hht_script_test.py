@@ -12,7 +12,8 @@ is to use the Hilbert-Huang Transform to detect early faults in
 helical gears.
 
 This specific file is for testing preliminary data given to me
-by my supervisor.
+by my supervisor. All the code was worked on bit by bit in 
+'hht_test.ipynb'.
 
 The results of this code will be compared against the ones 
 obtained with MATLAB.
